@@ -49,7 +49,7 @@
 				<div id="main" class="wrapper style1">
 					<div class="container">
 						<header class="major">
-							<h2>STUDENT PAGE- CLASS LOG</h2>
+							<h2>STUDENT PAGE - CLASS LOG</h2>
 							<p>Strive To Grow to Unleash Your Potential Heights!</p>
 						</header>
 						<div class="row gtr-150">
