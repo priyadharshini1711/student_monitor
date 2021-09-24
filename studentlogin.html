@@ -1,0 +1,145 @@
+<!DOCTYPE HTML>
+<!--
+	Landed by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+    <title>STUDENT LOGIN</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    <style>
+        body {
+            font-family: calibri;
+        }
+        
+        .tblLogin {
+            border: #95bee6 1px solid;
+            background: ##d1e8ff;
+            border-radius: 4px;
+        }
+        
+        .tableheader {
+            font-size: 24px;
+        }
+        
+        .tableheader td {
+            padding: 20px;
+        }
+        
+        .tablerow td {
+            text-align: center;
+        }
+        
+        .message {
+            color: #FF0000;
+            font-weight: bold;
+            text-align: center;
+            width: 100%;
+        }
+        
+        .login-input {
+            border: #CCC 1px solid;
+            padding: 10px 20px;
+        }
+        
+        .btnSubmit {
+            padding: 10px 20px;
+            background: #2c7ac5;
+            border: #d1e8ff 1px solid;
+            color: #FFF;
+        }
+    </style>
+</head>
+
+<body class="is-preload">
+    <div id="page-wrapper">
+
+        <!-- Header -->
+        <header id="header">
+            <h1 id="logo"><a href="index.html">PR TECHNOLOGY</a></h1>
+            <nav id="nav">
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="#one">ABOUTUS</a></li>
+                    <li><a href="#four">CONTACT US</a></li>
+                    <li><a href="#" class="button primary">SIGN IN</a>
+                        <ul>
+                            <li><a href="stafflogin.html">STAFF LOGIN</a></li>
+                            <li><a href="studentlogin.html">STUDENT LOGIN</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+
+        <!-- Main -->
+        <div id="main" class="wrapper style1">
+            <div class="container">
+                <header class="major">
+                    <h2>STUDENT LOGIN</h2>
+                    <p>LOGIN TO VIEW YOUR PAGE</p>
+                </header>
+
+                <!-- Content -->
+                <section id="content">
+                    <form name="frmUser" method="post" action="studentuser.php">
+                        <div class="message">
+                            <?php if($message!="") { echo $message; } ?>
+                        </div>
+                        <table border="0" cellpadding="10" cellspacing="1" width="500" align="center" class="tblLogin">
+                            <tr class="tableheader">
+                                <td align="center" colspan="2">Enter Login Details</td>
+                            </tr>
+                            <tr class="tablerow">
+                                <td>
+                                    <input type="text" name="username" placeholder="User Name" class="login-input"></td>
+                            </tr>
+                            <tr class="tablerow">
+                                <td>
+                                    <input type="password" name="password" placeholder="Password" class="login-input"></td>
+                            </tr>
+                            <tr class="tableheader">
+                                <td align="center" colspan="2"><input type="submit" name="submit" value="Submit" class="btnSubmit"></td>
+                            </tr>
+                        </table>
+                    </form>
+                </section>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer id="footer">
+            <ul class="icons">
+                <li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+                <li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+                <li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                <li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+                <li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+                <li><a href="#" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+            </ul>
+            <ul class="copyright">
+                <li>&copy; Untitled. All rights reserved.</li>
+                <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+            </ul>
+        </footer>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
