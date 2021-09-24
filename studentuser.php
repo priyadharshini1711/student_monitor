@@ -14,7 +14,7 @@ if(count($_POST)>0)
 	} 
 	else 
 	{
-		header('Location:studentpage.html');
+		header('Location:studentpage.php');
 	}
 }
 ?>
