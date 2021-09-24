@@ -90,7 +90,7 @@ echo '<p>Click <a href="circulars.php">here</a> to go back</p>';
 				<div id="main" class="wrapper style1">
 					<div class="container">
 						<header class="major">
-							<h2>STAFF PAGE - CIRCULAR</h2>
+							<h2>STAFF PAGE - CIRCULARS</h2>
 							<p>We never know which lives we influence, or when, or why.</p>
 						</header>
 						<div class="row gtr-150">
@@ -99,10 +99,10 @@ echo '<p>Click <a href="circulars.php">here</a> to go back</p>';
 								<!-- Sidebar -->
 									<section id="sidebar">
 										<section><a href="staffpage.php"><h3>PERSONAL INFO</h3></a></section><hr />
-										<section><a href="attendances.php"><h3>ATTTENDANCE</h3></a></section><hr />
+										<section><a href="attendances.php"><h3>ATTENDANCE</h3></a></section><hr />
 										<section><a href="internals.php"><h3>INTERNALS</h3></a></section><hr />
-										<section><a href="unversitys.php"><h3>UNVERSITY RESULTS</h3></a></section><hr />
-										<section><a href="ccs.php"><h3>CO -CURRICULAR</h3></a></section><hr />
+										<section><a href="unversitys.php"><h3>UNIVERSITY RESULTS</h3></a></section><hr />
+										<section><a href="ccs.php"><h3>CO - CURRICULAR</h3></a></section><hr />
 										<section><a href="ecs.php"><h3>EXTRA - CURRICULAR</h3></a></section><hr />
 										<section><a href="assignments.php"><h3>ASSIGNMENTS</h3></a></section><hr />
 										<section><a href="notes.php"><h3>NOTES</h3></a></section><hr />

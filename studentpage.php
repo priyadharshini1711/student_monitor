@@ -49,7 +49,7 @@
 				<div id="main" class="wrapper style1">
 					<div class="container">
 						<header class="major">
-							<h2>STUDENT PAGE</h2>
+							<h2>STUDENT PAGE - PERSONAL INFO</h2>
 							<p>The expert in everything was once a beginner.</p>
 						</header>
 						<div class="row gtr-150">
@@ -81,10 +81,10 @@
 								<!-- Sidebar -->
 									<section id="sidebar">
 										<section><a href="studentpage.php"><h3>PERSONAL INFO</h3></a></section><hr />
-										<section><a href="attendancet.php"><h3>ATTTENDANCE</h3></a></section><hr />
+										<section><a href="attendancet.php"><h3>ATTENDANCE</h3></a></section><hr />
 										<section><a href="internalst.php"><h3>INTERNALS</h3></a></section><hr />
-										<section><a href="unversityst.php"><h3>UNVERSITY RESULTS</h3></a></section><hr />
-										<section><a href="ccst.php"><h3>CO -CURRICULAR</h3></a></section><hr />
+										<section><a href="unversityst.php"><h3>UNIVERSITY RESULTS</h3></a></section><hr />
+										<section><a href="ccst.php"><h3>CO - CURRICULAR</h3></a></section><hr />
 										<section><a href="ecst.php"><h3>EXTRA - CURRICULAR</h3></a></section><hr />
 										<section><a href="assignmentst.php"><h3>ASSIGNMENTS</h3></a></section><hr />
 										<section><a href="notest.php"><h3>NOTES</h3></a></section><hr />
