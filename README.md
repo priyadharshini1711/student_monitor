@@ -37,8 +37,19 @@
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+![image](https://user-images.githubusercontent.com/81974121/134735598-65190e49-dc67-4792-80b6-3d7d86109483.png)
+
+![image](https://user-images.githubusercontent.com/81974121/134735614-255d046f-8ea3-4842-b0fd-701fa19e0997.png)
+
+![image](https://user-images.githubusercontent.com/81974121/134735642-04016e89-1cd7-4170-854e-b2bf281017c4.png)
+
+![image](https://user-images.githubusercontent.com/81974121/134735688-87f4a0c8-9db0-4d99-af1c-c05220fe96a3.png)
+
+![image](https://user-images.githubusercontent.com/81974121/134735703-8c94d389-1ad6-459c-81f0-5338157d557a.png)
+
+![image](https://user-images.githubusercontent.com/81974121/134735736-b3df347a-c5e2-4bbe-831b-595af8f14395.png)
+
+![image](https://user-images.githubusercontent.com/81974121/134735800-b1c95bbc-5ed5-4656-9c3a-4537aca19b24.png)
 
 
 ## Setup
